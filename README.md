@@ -3,6 +3,7 @@
 
 - 🔭 Hoje estou trabalhando como Desenvolvedor Full Stack
 - 🌱 Buscando aperfeiçoar meu conhecimento em JavaScript, Nodejs e ReactJs
+- 🌱 Estudando Docker, Microsserviços, RabbitMQ
 - 💬 Contate-me no email: gianine1508@gmail.com
 - 😄 Pronouns: ele
 
