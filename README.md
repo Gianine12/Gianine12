@@ -4,11 +4,11 @@ Sou um desenvolvedor em formação com foco em Python, criando aplicações web 
 
 ## 🚀 Principais Tecnologias
 - Python | Flask | Django
-- Tkinter | PyQt
-- Scikit-learn | Pandas
 - HTML | CSS | JavaScript
+- Node.Js | Nest.Js
+- Docker
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Estudos
 1. Sistema de controle financeiro com GUI
 2. App web para organização de estudos
 3. Classificador de sentimentos com ML
